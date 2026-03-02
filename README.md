@@ -1,2 +1,2 @@
 # SD-Route-Fusion
-Official implementation for SD-Route Fusion (under review).
+Official code release for SD-Route-Fusion (under review). Code will be released upon acceptance.
